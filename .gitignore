@@ -1,2 +1,3 @@
-**.log
-**.xmi
+**/*.log
+**/*.xmi
+/.metadata/
