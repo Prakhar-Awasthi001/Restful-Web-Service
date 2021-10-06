@@ -1,5 +1,6 @@
 package com.restful.webservice;
 
+@SuppressWarnings("serial")
 public class EmployeeNotFoundException extends RuntimeException {
 
 	public EmployeeNotFoundException(String message) {

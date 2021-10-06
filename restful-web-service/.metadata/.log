@@ -7229,3 +7229,51 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 15:45:14.260
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jSPkGkvF => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:28.262
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:28.264
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@45745de6[org.springframework.tooling.boot.ls:1.20.0.202007271426(id=635)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:28.265
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.351
+!MESSAGE Boot LS startup time from start to initialized: 3083ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.428
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pXRyuqnfisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.431
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.432
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.435
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.438
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.440
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.442
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.445
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pXRyuqnf => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.498
+!MESSAGE classpath=105 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.516
+!MESSAGE buffering callback sts4.classpath.pXRyuqnf restful-web-service false 105
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.517
+!MESSAGE executing callback sts4.classpath.pXRyuqnf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-06 17:53:31.563
+!MESSAGE executing callback sts4.classpath.pXRyuqnf SUCCESS [done]
